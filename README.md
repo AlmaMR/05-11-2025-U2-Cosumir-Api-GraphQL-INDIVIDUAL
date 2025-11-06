@@ -1,1 +1,0 @@
-# 05-11-2025-U2-Cosumir-Api-GraphQL-INDIVIDUAL
